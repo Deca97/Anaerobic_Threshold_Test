@@ -1,5 +1,0 @@
-fastapi
-uvicorn
-fitdecode
-numpy
-python-multipart
